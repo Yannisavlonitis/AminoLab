@@ -68,7 +68,7 @@ Legislación y ética aplicados a biología.
 
 2. Abre la carpeta correspondiente al tema que te interese.
 
-3. Sigue las instrucciones y practica con los ejemplos.
+3. Estudia y practica con los ejemplos.
 
 ## 🤝 Contribuciones
 
@@ -77,4 +77,4 @@ Si encuentras errores o quieres mejorar el contenido, abre un *issue* o envía u
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia [GNU](https://www.gnu.org/licenses/gpl-3.0.html).
+Este proyecto está bajo la licencia [GNU Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
