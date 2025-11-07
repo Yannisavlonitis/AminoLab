@@ -1,4 +1,4 @@
-def convertir_a_aa (dna, inv):
+def amino_lab (dna, inv):
     directo = {}
     inicio = [] #codones de inicio
     completo = {} #directo
@@ -85,4 +85,4 @@ codgen = {
 
 
 
-print(convertir_a_aa(secuencia, codgen))
+print(amino_lab(secuencia, codgen))
