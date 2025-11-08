@@ -87,7 +87,7 @@ Conceptos de genética para que no te pierdas.
 
 Comandos y uso de la terminal para que puedas automatizar trabajos.
 
-> Autor:
+> Autor: Rita Pellissa Valera
 
 #### 🪄 Secuenciación y ómicas de próxima generación
 
