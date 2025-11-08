@@ -81,7 +81,7 @@ Introducción a la lógica de programación y al lenguaje Python.
 
 Conceptos de genética para que no te pierdas.
 
-> Autor:
+> Autor: Yannis Avlonitis Egea
 
 #### 💻 Fundamentos de linux
 
