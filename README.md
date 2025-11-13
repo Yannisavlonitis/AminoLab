@@ -94,7 +94,7 @@ Comandos y uso de la terminal para que puedas automatizar trabajos.
 
 Técnicas útiles en bioinformática.
 
-> Autor:
+> Autor: Teresa Carrión Mera
 
 #### 🗂 Bases de datos de genes, mRNAs y proteínas
 
